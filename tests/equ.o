@@ -1,0 +1,24 @@
+               TABELA SIMBOLA
+      IME   SEKCIJA   POMERAJ VIDLJIVOST REDNI BROJ VELICINA SEKCIJE
+      data         0         0         l         0         8
+      text         9         0         l         9        10
+
+    TABELERELOKACIONIH ZAPISA
+Relokacioni zapisi za sekciju data
+       IME   POMERAJ      TIP REDNI BROJ
+----- NEMA RELOKACIONIH ZAPISA ZA OVU SEKCIJU ----
+
+
+Relokacioni zapisi za sekciju text
+       IME   POMERAJ      TIP REDNI BROJ
+----- NEMA RELOKACIONIH ZAPISA ZA OVU SEKCIJU ----
+
+
+           PREDMETNI PROGRAMI
+*** Sekcija data ***
+0a 00 05 00 09 00 f8 ff 
+*** Sekcija text ***
+0c 0c 76 aa 78 07 07 69 07 07 
+
+
+
